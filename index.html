@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Programming Languages to Learn in 2024 . Your Skill Mastery Hub - Learn Python, Java, React, Angular, Salesforce</title>
+    <meta name="description" content="Unlock Your Potential: Learn Python, Java, React, Angular, and Salesforce. Get certified and land your dream job. Subscribe for in-depth tutorials and resources.">
+    
+    <!-- SEO-optimized meta tags for specific keywords -->
+    <meta name="keywords" content="Python crash course, Salesforce certification course, Java programming w3schools, Angular and React for beginners, highly paid jobs, programming languages">
+    <meta name="author" content="Your Skill Mastery Hub">
+    
+    <!-- Open Graph meta tags for better social sharing -->
+    <meta property="og:title" content="Your Skill Mastery Hub - Learn Python, Java, React, Angular, Salesforce">
+    <meta property="og:description" content="Unlock Your Potential: Learn Python, Java, React, Angular, and Salesforce. Get certified and land your dream job. Subscribe for in-depth tutorials and resources.">
+    <meta property="og:image" content="URL_TO_YOUR_LOGO_IMAGE">
+    <meta property="og:url" content="URL_TO_YOUR_LANDING_PAGE">
+
+    <!-- Twitter Card meta tags for better Twitter sharing -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@YourTwitterHandle">
+    <meta name="twitter:title" content="Your Skill Mastery Hub - Learn Python, Java, React, Angular, Salesforce">
+    <meta name="twitter:description" content="Unlock Your Potential: Learn Python, Java, React, Angular, and Salesforce. Get certified and land your dream job. Subscribe for in-depth tutorials and resources.">
+    <meta name="twitter:image" content="URL_TO_YOUR_LOGO_IMAGE">
+
+    <!-- CSS Styles -->
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+.animated-finger {
+            position: relative;
+            font-size: 20px;
+            animation: moveFinger 1s infinite alternate;
+        }
+
+        @keyframes moveFinger {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .fire {
+            position: absolute;
+            bottom: -20px;
+            width: 30px;
+            height: 30px;
+            background: #FF4500; /* Fire color */
+            clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+            animation: burnFire 1s infinite alternate;
+        }
+
+        @keyframes burnFire {
+            0% {
+                transform: scaleY(1);
+            }
+            100% {
+                transform: scaleY(1.2);
+            }
+        }
+
+        header {
+            background-color: #4285f4;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+  
+        h1, h2 {
+            color: #4285f4;
+font-size :36 
+        }
+   
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+font-size: 14px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        label {
+            margin-bottom: 5px;
+        }
+
+        input {
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        button {
+            background-color: #4285f4;
+            color: #fff;
+            padding: 10px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+        }
+
+        .benefits-section {
+            margin-top: 20px;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .benefits-title {
+            color: #4285f4;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+.benefits-title2 {
+        
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+        .benefits-list {
+            padding: 0;
+            margin: 0;
+        }
+
+        .benefits-list li {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .salary-stats {
+            margin-top: 20px;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .salary-title {
+            color: #4285f4;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .salary-stats ul {
+            padding: 0;
+            margin: 0;
+        }
+
+        .salary-stats li {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4285f4;
+            color: #fff;
+        }
+    </style>
+
+</head>
+<body>
+
+    <header>
+        <h1>Your Skill Mastery Hub</h1>
+        <p   class="benefits-title2">         
+Unlock Your Potential with In-Depth Free Certification online Training - Tutorials on Python, Java, React, Angular, Salesforce Admin, and Salesforce Development.</p>
+    </header>
+
+
+    <section id="benefits" class="benefits-section">
+        <h2 class="benefits-title">Course Benefits</h2>
+        <div class="benefits-list">
+            <p>Unlock your potential with our free comprehensive courses. Here are some key benefits:</p>
+            <ul>
+               <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Land High-Paying Jobs by Mastering the Top Programming Skills of 2024: Python, Java, Salesforce, Angular, and React.</li>
+		<li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div>Unlock Lucrative software Job Opportunities in 2024</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div>Hands-on learning with real-world projects</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Expert guidance from industry professionals</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Certification preparation for in-demand skills</li>
+		<li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div>Skillup for the Best Career Options For Freshers And Experienced 2024</>
+            </ul>
+        </div>
+    </section>
+
+    <section id="salary-stats" class="salary-stats">
+        <h2 class="salary-title">Market Values and Salary Statistics</h2>
+        <div class="salary-stats">
+            <p>Our free courses are designed to match market values, providing you with the skills needed for highly paid jobs. Here are some salary statistics:</p>
+            <ul>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Python Developers: Median salary $90,000 per year</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Java Developers: Median salary $95,000 per year</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> React and Angular Developers: Median salary $100,000 per year</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Salesforce Administrators: Median salary $85,000 per year</li>
+                <li><div class="animated-finger">
+        👉💰
+        <div class="fire"></div> Salesforce Developers: Median salary $100,000 per year</li>
+            </ul>
+        </div>
+    </section>
+
+  <section id="playlist-section">
+        <h2>Featured Playlists</h2>
+ <section id="playlist-section">
+	<div class="animated-finger">
+        👉💰 Start learning now, Click on the relevant playlist, Subscribe and Join the youtube channel.
+        <div class="fire"></div>
+    </div>
+        <ul>
+            <li><a href="https://www.youtube.com/playlist?list=PLclCNFpNm63pJbp53nMId_dW0pVlWk63X" target="_blank">Python Programming</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLclCNFpNm63ph62LUi3uKLmVm2VIxglaK" target="_blank">Java Programming</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLclCNFpNm63o902XP7L9I3ikmtnqPdSYj" target="_blank">React JS</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLclCNFpNm63pCjMG0PGNSkkzdFhDfMU4m" target="_blank">Angular</a></li>
+            <li><a href="https://www.youtube.com/playlist?list=PLclCNFpNm63o0SAi4G_1B3oFcr9j5Khc4" target="_blank">Salesforce Administration</a></li>
+            <li><a href="YOUR_SALESFORCE_DEVELOPER_PLAYLIST_URL" target="_blank">Salesforce Developer</a></li>
+        </ul>
+    </section>
+
+
+    <section id="signup-section">
+        <h2>Want More Information?</h2>
+        <p>Subscribe to our newsletter for updates, additional resources, and exclusive tips to accelerate your learning journey.
+            Join the millions learning to code for free and get high paying Software Job</p>
+
+        <!-- Replace 'YOUR_EMAIL_SUBMISSION_ENDPOINT' with the actual endpoint to handle email submissions -->
+        <form action="http://eepurl.com/hNRQrP" method="post">
+            <label for="email">Enter your email:</label>
+            <input type="email" id="email" name="email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </section>
+
+  
+    <footer>
+        <p>&copy; 2024 Your Skill Mastery Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
